@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\DOT-NET\Assign6_5\Assign6_5\bin\Debug\Assign6_5.exe.config
+C:\Users\hp\Desktop\DOT-NET\Assign6_5\Assign6_5\bin\Debug\Assign6_5.exe
+C:\Users\hp\Desktop\DOT-NET\Assign6_5\Assign6_5\bin\Debug\Assign6_5.pdb
+C:\Users\hp\Desktop\DOT-NET\Assign6_5\Assign6_5\obj\Debug\Assign6_5.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\DOT-NET\Assign6_5\Assign6_5\obj\Debug\Assign6_5.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DOT-NET\Assign6_5\Assign6_5\obj\Debug\Assign6_5.exe
+C:\Users\hp\Desktop\DOT-NET\Assign6_5\Assign6_5\obj\Debug\Assign6_5.pdb
