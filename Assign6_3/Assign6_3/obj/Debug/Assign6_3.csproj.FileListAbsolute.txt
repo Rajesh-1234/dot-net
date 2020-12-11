@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\DOT-NET\Assign6_3\Assign6_3\bin\Debug\Assign6_3.exe.config
+C:\Users\hp\Desktop\DOT-NET\Assign6_3\Assign6_3\bin\Debug\Assign6_3.exe
+C:\Users\hp\Desktop\DOT-NET\Assign6_3\Assign6_3\bin\Debug\Assign6_3.pdb
+C:\Users\hp\Desktop\DOT-NET\Assign6_3\Assign6_3\obj\Debug\Assign6_3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DOT-NET\Assign6_3\Assign6_3\obj\Debug\Assign6_3.exe
+C:\Users\hp\Desktop\DOT-NET\Assign6_3\Assign6_3\obj\Debug\Assign6_3.pdb
